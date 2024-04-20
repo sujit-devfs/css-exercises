@@ -1,0 +1,22 @@
+.bg-pink {
+    background-color: rgb(248, 175, 187);
+    font-family: verdana,"dejavu sans",sans-serif;
+}
+
+p {
+    font-weight: 500;
+}
+
+#idx1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.big-font {
+    font-size: 24px;
+}
+
+#idx2 {
+    background-color: lightgreen;
+    font-weight: 900;
+}
